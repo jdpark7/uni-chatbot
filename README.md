@@ -1,5 +1,5 @@
-# 0) 사전 준비: Node.js 20+ 설치, Git 설치 권장
-# 1) 프로젝트 생성
+- 0) 사전 준비: Node.js 20+ 설치, Git 설치 권장
+- 1) 프로젝트 생성
 mkdir uni-chatbot && cd uni-chatbot
 
 
