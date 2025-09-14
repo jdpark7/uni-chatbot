@@ -33,11 +33,19 @@ node server.mjs
 
 
 uni-chatbot/
+
 ├─ .env # 환경 변수(모델명 등)
+
 ├─ ingest.mjs # 폴더 문서 → 임베딩 → 벡터DB 색인 스크립트
+
 ├─ server.mjs # Express API 서버 + RAG 파이프라인
+
 ├─ vectorstore/ # LanceDB 벡터 테이블 데이터
+
 ├─ university-data/ # ★ 대학 관련 문서들(원천 데이터)
+
 └─ public/
+
 ├─ index.html # 테스트용 미니 웹 UI
+
 └─ app.js # 프론트엔드 로직
