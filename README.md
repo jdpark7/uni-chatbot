@@ -4,8 +4,25 @@ mkdir uni-chatbot && cd uni-chatbot
 
 
 ### 2) 소스 받기
-### - 아래 폴더/파일 구조를 그대로 생성하세요 (이 문서 하단에 모든 코드 있음)
+### - 아래 폴더/파일 구조를 그대로 생성하세요 
 
+uni-chatbot/
+
+├─ .env # 환경 변수(모델명 등)
+
+├─ ingest.mjs # 폴더 문서 → 임베딩 → 벡터DB 색인 스크립트
+
+├─ server.mjs # Express API 서버 + RAG 파이프라인
+
+├─ vectorstore/ # LanceDB 벡터 테이블 데이터
+
+├─ university-data/ # ★ 대학 관련 문서들(원천 데이터)
+
+└─ public/
+
+    ├─ index.html # 테스트용 미니 웹 UI
+
+    └─ app.js # 프론트엔드 로직
 
 ### 3) 의존성 설치
 npm i express cors dotenv body-parser glob lancedb langchain @langchain/community ollama
@@ -32,20 +49,4 @@ node server.mjs
 ### → http://localhost:8787 (API), http://localhost:8787/app (테스트 UI)
 
 
-uni-chatbot/
 
-├─ .env # 환경 변수(모델명 등)
-
-├─ ingest.mjs # 폴더 문서 → 임베딩 → 벡터DB 색인 스크립트
-
-├─ server.mjs # Express API 서버 + RAG 파이프라인
-
-├─ vectorstore/ # LanceDB 벡터 테이블 데이터
-
-├─ university-data/ # ★ 대학 관련 문서들(원천 데이터)
-
-└─ public/
-
-    ├─ index.html # 테스트용 미니 웹 UI
-
-    └─ app.js # 프론트엔드 로직
