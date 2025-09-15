@@ -13,8 +13,8 @@ uni-chatbot/
 ├─ vectorstore/      # LanceDB vector table data  
 ├─ university-data/  # ★ University-related documents (source data)  
 └─ public/  
-`     ├─ index.html     # Mini web UI for testing  
-`     └─ app.js         # Frontend logic  
+&nbsp;&nbsp;&nbsp;     ├─ index.html     # Mini web UI for testing  
+&nbsp;&nbsp;&nbsp;     └─ app.js         # Frontend logic  
 
 ### 3)Install dependencies
 npm i express cors dotenv body-parser glob lancedb langchain @langchain/community ollama
