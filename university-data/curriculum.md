@@ -1,17 +1,4 @@
- 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 TABLE OF CONTENTS 
  
  
@@ -48,7 +35,7 @@ One of the most important tasks you complete each spring is enrollment in classe
  
 A MESSAGE TO PARENTS 
  
-It is important that our students make the most of their middle and high school experiences. This can be done only if parents help their children become aware of all courses, programs, and services that are available at school and assist them in developing their own educational programs. To formulate a successful program, consideration must be given to graduation requirements, college/career goals, and the student°Øs interests and abilities. 
+It is important that our students make the most of their middle and high school experiences. This can be done only if parents help their children become aware of all courses, programs, and services that are available at school and assist them in developing their own educational programs. To formulate a successful program, consideration must be given to graduation requirements, college/career goals, and the student‚Äôs interests and abilities. 
  
 We encourage you to use this handbook as a source of information on courses offered at Orange County School of the Arts (OCSA). 
  
@@ -58,12 +45,12 @@ Students should check carefully to see that they have taken the proper prerequis
  
 CREDITS 
  
-It is very important that final grades are checked each semester to ensure accurate reporting. Credits are awarded for passing the semester°Øs work unless the student is repeating an academic class that has already been passed with a grade of C or higher.  
+It is very important that final grades are checked each semester to ensure accurate reporting. Credits are awarded for passing the semester‚Äôs work unless the student is repeating an academic class that has already been passed with a grade of C or higher.  
 Challenges to final grades must be made in writing to the counselor and teacher of record within 15 days of the final reporting of grades and grade changes after the 15-day timeline will not be granted. Only the teacher of record can make a grade change and grade changes will only be made in rare situations where
 Course Selection 
  
 typographical or calculation errors can be established. If the written request for a grade change is denied, the parent/student may make one written appeal to OCSA administration. The written decision of OCSA administration is final.  
-In the rare event that a student cannot complete coursework requirements before the posting of the final semester grades, the student may request in writing to the teacher of record and counselor to take an °∞incomplete°± in the course. The approval for an incomplete grade will be made at the discretion of the teacher of record. If approved, the student will be granted up to 15 school days to complete and submit any work. A final grade will be issued after the 15-day timeline extension. School Counselors can help answer any questions about this. 
+In the rare event that a student cannot complete coursework requirements before the posting of the final semester grades, the student may request in writing to the teacher of record and counselor to take an ‚Äúincomplete‚Äù in the course. The approval for an incomplete grade will be made at the discretion of the teacher of record. If approved, the student will be granted up to 15 school days to complete and submit any work. A final grade will be issued after the 15-day timeline extension. School Counselors can help answer any questions about this. 
  
 WEIGHTED GRADES POLICY 
  
@@ -75,7 +62,7 @@ Advanced placement courses, completed with a grade of C or better, taken at any 
  
 Honors courses, completed with a grade of C or better, taken at any accredited California high school, shall receive a weighted grade ONLY if: 
  
-°‹.The course is identified on the prior school°Øs University of California A-G course list as a weighted course. 
+‚â§.The course is identified on the prior school‚Äôs University of California A-G course list as a weighted course. 
 
  
  
@@ -91,9 +78,9 @@ Course Selection
  
 OUT OF STATE TRANSFERS 
  
-If a student transfers to OCSA with high school courses on their transcript, OCSA will designate weighted credit only to AP courses and/or equivalent honors courses approved on OCSA°Øs University of California A-G course list.   
+If a student transfers to OCSA with high school courses on their transcript, OCSA will designate weighted credit only to AP courses and/or equivalent honors courses approved on OCSA‚Äôs University of California A-G course list.   
  
-Please note that in calculating a non-resident°Øs GPA when applying to college, the UC system will grant honors weight for AP courses or IB courses only, but not for out of state school-designated honors courses. 
+Please note that in calculating a non-resident‚Äôs GPA when applying to college, the UC system will grant honors weight for AP courses or IB courses only, but not for out of state school-designated honors courses. 
  
 Weighted grade points shall be issued as follows: 
  .A= 5   ..C= 3 
@@ -118,16 +105,16 @@ PLACEMENT/LEVEL CHANGES
  
 1.  Once a semester has begun, if a student believes that they have been inappropriately placed in a class, the student must first speak with the teacher. If, based on a placement test or initial assessment, the teacher agrees that a different course would be more appropriate, the teacher will notify the counselor about the recommended change.  
  
-2.  Academic Level Changes (Example: Honors or AP to College Prep) require Teacher Recommendation and space availability. The last day to level change is the end of the 7th week of the semester. The student°Øs progress grade may move with the student to the new class. 
+2.  Academic Level Changes (Example: Honors or AP to College Prep) require Teacher Recommendation and space availability. The last day to level change is the end of the 7th week of the semester. The student‚Äôs progress grade may move with the student to the new class. 
 Course Selection 
  
 CLASS WITHDRAWAL POLICY 
  
 1.  Withdrawal from any semester or year-long class, including all core academic classes, (English, mathematics, science, foreign languages, government, economics, arts, history, and ethnic studies) must occur within the first seven weeks of the semester and will not be marked or have a negative impact on the report card or transcript.  
  
-2.  Withdrawal from any semester or year-long class, including all core academic classes, after the first grading period, up until the completion of the second grading period (Weeks 8-12) of the semester, will be marked with a W on their transcript. This notation will be recorded on the transcript as a withdrawal from the course, but dropping the course during this window of time does not negatively impact the student°Øs Grade Point Average (GPA). 
+2.  Withdrawal from any semester or year-long class, including all core academic classes, after the first grading period, up until the completion of the second grading period (Weeks 8-12) of the semester, will be marked with a W on their transcript. This notation will be recorded on the transcript as a withdrawal from the course, but dropping the course during this window of time does not negatively impact the student‚Äôs Grade Point Average (GPA). 
  
-3.  Withdrawal from any semester or year-long class, including all core academic classes, after the second grading period (Weeks 13-18) of the semester will be marked with a W/F, which is computed as a failing grade in the student°Øs Grade Point Average (GPA) and will be recorded on the student°Øs transcript. 
+3.  Withdrawal from any semester or year-long class, including all core academic classes, after the second grading period (Weeks 13-18) of the semester will be marked with a W/F, which is computed as a failing grade in the student‚Äôs Grade Point Average (GPA) and will be recorded on the student‚Äôs transcript. 
   
 4. All OCSA classes are year-long and second semester schedule changes are typically not granted.  However, schedule change requests will be reviewed on a case by case basis. Students must schedule a meeting with their counselor and receive administrative approval in order for a change to occur. 
  
@@ -220,7 +207,7 @@ OCSA offers Career Technical Education (CTE) courses in all of its conservatory 
  
 DUAL ENROLLMENT COURSES 
  
-OCSA has built a robust partnership with Santa Ana College which provides students the opportunity to take Dual Enrollment classes embedded within some conservatory schedules. This enables students to earn college credits while completing their high school graduation requirements and conservatory course sequences. OCSA students enrolled in these courses are exempt from all tuition and enrollment fees associated with taking college courses. If you are scheduled to take a Dual Enrollment class, Karen Ryamr, Director of Arts Enrichment,  will walk you through the Santa Ana College registration process. OCSA complies with Santa Ana College add/drop policies and timelines for all Dual Enrollment classes. Dual Enrollment courses will appear on both the student°Øs OCSA transcript and the Santa Ana College transcript. Please note that conservatory dual enrollment courses do not earn a weighted grade on the OCSA transcript.  Currently, the following conservatory programs have dual enrollment partnerships with Santa Ana College: Acting, Culinary Arts & Hospitality, Creative Writing, Design & Media, Film & Television, Integrated Arts, Musical Theatre and Production & Design. 
+OCSA has built a robust partnership with Santa Ana College which provides students the opportunity to take Dual Enrollment classes embedded within some conservatory schedules. This enables students to earn college credits while completing their high school graduation requirements and conservatory course sequences. OCSA students enrolled in these courses are exempt from all tuition and enrollment fees associated with taking college courses. If you are scheduled to take a Dual Enrollment class, Karen Ryamr, Director of Arts Enrichment,  will walk you through the Santa Ana College registration process. OCSA complies with Santa Ana College add/drop policies and timelines for all Dual Enrollment classes. Dual Enrollment courses will appear on both the student‚Äôs OCSA transcript and the Santa Ana College transcript. Please note that conservatory dual enrollment courses do not earn a weighted grade on the OCSA transcript.  Currently, the following conservatory programs have dual enrollment partnerships with Santa Ana College: Acting, Culinary Arts & Hospitality, Creative Writing, Design & Media, Film & Television, Integrated Arts, Musical Theatre and Production & Design. 
  
  
 
@@ -228,7 +215,7 @@ College Entrance Requirements
  
 CALIFORNIA COLLEGES GUIDANCE INITIATIVE 
  
-Parents/Guardians and students will have direct access to online tools and resources to help them prepare their child(ren)°Øs path to college and post-secondary career options. The California College Guidance Initiative (CCGI) works to ensure that all 6th-12th grade students in California have access to a systematic baseline of guidance and support as they plan, prepare, and pay for post-secondary education and training. Individual student data from California Longitudinal Pupil Achievement Data System (CALPADS) is linked with the California College Guidance Initiative (CCGI).  CCGI manages www.CaliforniaColleges.edu, which is the one stop resource for students to prepare for life after high school.  It also helps with scholarships and financial support through programs like the Student Aid Commission [EC 60900.5; FERPA].  OCSA is in the process of 
+Parents/Guardians and students will have direct access to online tools and resources to help them prepare their child(ren)‚Äôs path to college and post-secondary career options. The California College Guidance Initiative (CCGI) works to ensure that all 6th-12th grade students in California have access to a systematic baseline of guidance and support as they plan, prepare, and pay for post-secondary education and training. Individual student data from California Longitudinal Pupil Achievement Data System (CALPADS) is linked with the California College Guidance Initiative (CCGI).  CCGI manages www.CaliforniaColleges.edu, which is the one stop resource for students to prepare for life after high school.  It also helps with scholarships and financial support through programs like the Student Aid Commission [EC 60900.5; FERPA].  OCSA is in the process of 
 building a comprehensive partnership with CCGI and will roll out full implementation during the 2025-26 school year. 
  
 ADMISSION TO THE UNIVERSITY OF CALIFORNIA .AS A FRESHMAN 
@@ -261,14 +248,14 @@ Two semesters of visual and performing arts chosen from ONE discipline from the 
 g.  College Preparatory Elective . 1 year required 
 One year (two semesters), in addition to those required in "a-f" above, chosen from the following areas: visual and performing arts (non-introductory level courses), history, social science, English, advanced mathematics, laboratory science and a language other than English (a third year in the language used for the "e" requirement or two years of another language). 
   
-Note: A-G Courses taken at OCSA are indicated on the student°Øs transcript with a lowercase °Æp°Ø. 
+Note: A-G Courses taken at OCSA are indicated on the student‚Äôs transcript with a lowercase ‚Äòp‚Äô. 
  
-2. Earn a grade point average (GPA) of 3.0 or better (3.4 if you°Øre a nonresident) in these courses with no grade lower than a C. 
+2. Earn a grade point average (GPA) of 3.0 or better (3.4 if you‚Äôre a nonresident) in these courses with no grade lower than a C. 
  
 Eligibility in the Local Context 
 Eligibility in the Local Context (ELC) is a program by which the University of California identifies top-performing California high school students. Unlike the broader statewide eligibility pathway, which seeks to recognize top students from throughout the state, ELC draws qualified students from among the top 9 percent of each participating high school.  
   
-To be designated as ELC, a student must have attended an eligible, participating California high school, satisfactorily completed a specific pattern of 11 UC-approved courses prior to the start of senior year, and have a UC-calculated GPA that meets or exceeds the top 9 percent GPA benchmark established by UC for their school. The 11 courses include: 1 year of history/social science, 2 years of English, 2 years of mathematics, 1 year of laboratory science, 1 year of language other than English and 4 year-long college prep elective classes chosen among the other °∞a-g°± subject requirements. 
+To be designated as ELC, a student must have attended an eligible, participating California high school, satisfactorily completed a specific pattern of 11 UC-approved courses prior to the start of senior year, and have a UC-calculated GPA that meets or exceeds the top 9 percent GPA benchmark established by UC for their school. The 11 courses include: 1 year of history/social science, 2 years of English, 2 years of mathematics, 1 year of laboratory science, 1 year of language other than English and 4 year-long college prep elective classes chosen among the other ‚Äúa-g‚Äù subject requirements. 
  
  
  
@@ -281,12 +268,12 @@ ELC students who complete these requirements but are not admitted to a campus th
 ADMISSION TO THE CALIFORNIA STATE UNIVERSITY .AS A FRESHMAN 
  
 Most applicants who are admitted meet the standards in each of the following areas: 
-°‹.Specific high school courses (referred to as the °∞a-g°± courses) 
-°‹.Grades in °∞a-g°± courses and test scores 
-°‹.Graduation from high school 
+‚â§.Specific high school courses (referred to as the ‚Äúa-g‚Äù courses) 
+‚â§.Grades in ‚Äúa-g‚Äù courses and test scores 
+‚â§.Graduation from high school 
 
  
-The CSU requires a 15-unit pattern of °∞a-g°± courses for admission as a first-time freshman. Each unit is equal to a year of study in a subject area. A grade of C or higher is required for each UC/Cal State approved course you use to meet the subject requirement.  Students interested in the CSU application can click here. 
+The CSU requires a 15-unit pattern of ‚Äúa-g‚Äù courses for admission as a first-time freshman. Each unit is equal to a year of study in a subject area. A grade of C or higher is required for each UC/Cal State approved course you use to meet the subject requirement.  Students interested in the CSU application can click here. 
  
 a.  History and Social Science . 2 years 
 Including 1 year of U.S. history or 1 semester of U.S. history and 1 semester of civics or American government and 1 year of social science. 
@@ -310,19 +297,19 @@ Dance, drama or theatre, music, or visual art
 g.  College Preparatory Electives . 1 year 
 College Entrance Requirements 
  
-One more year of any college preparatory subject chosen from the University of California °∞a-g°± list 
+One more year of any college preparatory subject chosen from the University of California ‚Äúa-g‚Äù list 
  
-Note: Courses that meet California State College or University entrance requirements will be marked °∞CSU°± (Subject area). 
+Note: Courses that meet California State College or University entrance requirements will be marked ‚ÄúCSU‚Äù (Subject area). 
  
 For more information on admissions requirements and eligibility index, please visit: https://secure.csumentor.edu/planning/high_school/ 
  
 ADMISSION TO THE COMMUNITY COLLEGE .AS A FRESHMAN 
  
 Graduates of a four-year high school or its equivalent are eligible for admission and may undertake any program of study for which they are prepared. The link to apply to California Community Colleges is here. Others may be eligible if they meet any of the following criteria: 
-°‹.Any person possessing a California High School Proficiency Certificate, OR 
-°‹.Any person 18 years of age or older who can profit from instruction, OR 
-°‹.Any person under 18 years of age who can profit from instruction and who has a recommendation from the Dean of Academics, OR 
-°‹.Any person under 18 years of age not enrolled in school who can profit from instruction and who has a recommendation from a parent and/or guardian. 
+‚â§.Any person possessing a California High School Proficiency Certificate, OR 
+‚â§.Any person 18 years of age or older who can profit from instruction, OR 
+‚â§.Any person under 18 years of age who can profit from instruction and who has a recommendation from the Dean of Academics, OR 
+‚â§.Any person under 18 years of age not enrolled in school who can profit from instruction and who has a recommendation from a parent and/or guardian. 
 
  
 ADMISSION TO THE PRIVATE COLLEGES AND OUT-OF-STATE PUBLIC INSTITUTIONS AS A FRESHMAN 
@@ -331,7 +318,7 @@ ADMISSION TO THE PRIVATE COLLEGES AND OUT-OF-STATE PUBLIC INSTITUTIONS AS A FRES
 Subject requirements vary among private colleges and out of state public institutions. However, if students follow the University of California requirements, they most likely will meet the requirements for the majority of schools. The highly selective private colleges will look for a minimum of four (preferably five) academic classes each year. 
  
 2.  GPA Requirement 
-Grade requirements vary greatly among private colleges and out-of-state public schools. The student°Øs counselor can advise what kind of grades and test scores are necessary for specific colleges. 
+Grade requirements vary greatly among private colleges and out-of-state public schools. The student‚Äôs counselor can advise what kind of grades and test scores are necessary for specific colleges. 
  
  
 
@@ -382,7 +369,7 @@ Prerequisite: None
 10 Credits | Grade 11 
 H.S. | C.S.U (a) | U.C. (a) 
  
-United States History is a one-year course designed to show the major turning points throughout American History with emphasis on the 20th Century. Following a review of the nation°Øs beginnings and the emergence of the United States into the developing world, students will begin to understand the impact of industrialization, massive immigration and the schism that begins and widens between capital and labor in the growing global economy.  Students will trace and analyze the changes in American society including the movement towards equal rights for racial minorities and women. Students will examine the role of the United  
+United States History is a one-year course designed to show the major turning points throughout American History with emphasis on the 20th Century. Following a review of the nation‚Äôs beginnings and the emergence of the United States into the developing world, students will begin to understand the impact of industrialization, massive immigration and the schism that begins and widens between capital and labor in the growing global economy.  Students will trace and analyze the changes in American society including the movement towards equal rights for racial minorities and women. Students will examine the role of the United  
 Social Science 
  
 States in the 20th Century and its emergence as a major world power, the paradigm shift in the federal government as a result of the Great Depression as well as the expanding power of the executive branch.  
@@ -479,11 +466,11 @@ Prerequisite: Completion of Literature & Composition II
 10 Credits | Grade 11 
 H.S. | C.S.U. (b) | U.C. (b) 
  
-Intended for the college-bound student, this course is grounded in the Common Core State Standards and emphasizes close reading analysis and composition. Students will study both fiction and nonfiction, in order to challenge and expand the student°Øs capacity to read with understanding texts of ever-increasing  
+Intended for the college-bound student, this course is grounded in the Common Core State Standards and emphasizes close reading analysis and composition. Students will study both fiction and nonfiction, in order to challenge and expand the student‚Äôs capacity to read with understanding texts of ever-increasing  
  
 Literature and Composition 
  
-complexity. These readings will form the basis of class discussions focused on rhetorical decisions and authorial choices, and the ways in which these choices impact the writer°Øs purpose and contribute to the  
+complexity. These readings will form the basis of class discussions focused on rhetorical decisions and authorial choices, and the ways in which these choices impact the writer‚Äôs purpose and contribute to the  
 artistic unity of the text. In addition to studying models of masterful writing, students will compose essays in multiple genres, including argumentative, analytical, and researched compositions, while working toward mastery in the ability to control a wide range of the elements of effective writing. The study of vocabulary and grammatical conventions will be intertwined throughout the course, preparing students for college entrance exams and the rigors of college coursework. 
  
 LANGUAGE AND COMPOSITION, ADVANCED PLACEMENT.Prerequisite: Completion of Lit. & Comp. II, grade of A or completion of Lit. & Comp. IIH, grade of B or higher both semesters 
@@ -507,9 +494,9 @@ Prerequisite: Completion Literature & Composition III, grade of A both semesters
 10 Credits | Grade 12 
 H.S. | C.S.U. (b) | U.C. (b) | *Weighted Course 
  
-AP English Literature and Composition engages students in the careful reading and critical analysis of texts with a focus on fictional literature. Through the close reading of selected and complex texts, students deepen their understanding of the way°Øs writers use language and literary devices to and provide meanings. As they read, students consider a work°Øs structure, style, character, language, tone, diction, syntax, figurative language and narrative strategies to develop themes and create certain effects. This course includes intensive study of representative works from various genres and periods, concentrating on works of recognized literary merit. Students will know a few works well. Students will read deliberately and thoroughly, taking time to understand a work°Øs complexity, to absorb its richness of meaning, and to analyze how that meaning is embodied in literary form. In addition to considering a work°Øs literary artistry, students reflect on the social, political, psychological, philosophical and historical value it reflects and embodies. Careful attention to textual detail provides a foundation for interpretation, whatever critical perspectives are brought to bear on the literary works studied. 
+AP English Literature and Composition engages students in the careful reading and critical analysis of texts with a focus on fictional literature. Through the close reading of selected and complex texts, students deepen their understanding of the way‚Äôs writers use language and literary devices to and provide meanings. As they read, students consider a work‚Äôs structure, style, character, language, tone, diction, syntax, figurative language and narrative strategies to develop themes and create certain effects. This course includes intensive study of representative works from various genres and periods, concentrating on works of recognized literary merit. Students will know a few works well. Students will read deliberately and thoroughly, taking time to understand a work‚Äôs complexity, to absorb its richness of meaning, and to analyze how that meaning is embodied in literary form. In addition to considering a work‚Äôs literary artistry, students reflect on the social, political, psychological, philosophical and historical value it reflects and embodies. Careful attention to textual detail provides a foundation for interpretation, whatever critical perspectives are brought to bear on the literary works studied. 
  
-Writing assignments focus on the critical analysis of literature, crafting a strong thesis, building a logical argument and achieving a sophistication in writing. Students enhance their understanding of the material and the writing tasks by participating in reviews, reflections and rewrite opportunities. Writing assessments include both formal and informal writing. Although critical analysis makes up the bulk of student writing for the course, well-constructed creative writing assignments help students see from the inside how literature is written. The goal of both types of writing assignments is to increase students°Ø ability to explain clearly, cogently, even elegantly, what they understand about literary works and why they interpret them as they do. To that end, writing instruction includes attention to developing and organizing ideas in clear coherent and persuasive language as well as building a solid line of reasoning using textual evidence. Throughout the course, emphasis is placed on helping students develop stylistic maturity. 
+Writing assignments focus on the critical analysis of literature, crafting a strong thesis, building a logical argument and achieving a sophistication in writing. Students enhance their understanding of the material and the writing tasks by participating in reviews, reflections and rewrite opportunities. Writing assessments include both formal and informal writing. Although critical analysis makes up the bulk of student writing for the course, well-constructed creative writing assignments help students see from the inside how literature is written. The goal of both types of writing assignments is to increase students‚Äô ability to explain clearly, cogently, even elegantly, what they understand about literary works and why they interpret them as they do. To that end, writing instruction includes attention to developing and organizing ideas in clear coherent and persuasive language as well as building a solid line of reasoning using textual evidence. Throughout the course, emphasis is placed on helping students develop stylistic maturity. 
  
  
 
@@ -523,7 +510,7 @@ Prerequisite: None
 5 Credits | Grades 9-12 
 H.S. 
  
-This one-semester class is designed to bring a deeper awareness to what being healthy encompasses. An exploration of the systems of the body coupled with units such as exercise and nutrition, self-esteem and mental health, substance abuse, and family life will guide students into making connections between the results of responsible decision making and how these choices are a direct link to one°Øs health. 
+This one-semester class is designed to bring a deeper awareness to what being healthy encompasses. An exploration of the systems of the body coupled with units such as exercise and nutrition, self-esteem and mental health, substance abuse, and family life will guide students into making connections between the results of responsible decision making and how these choices are a direct link to one‚Äôs health. 
  
  
  
@@ -556,7 +543,7 @@ Prerequisite: Teacher recommendation and Administration approval
 10 Credits | Grades 9-12 
 H.S. 
  
-General Mathematics is intended to review and reinforce students°Ø numeracy skills and understandings of basic mathematical operations: addition, subtraction, multiplication, and division. The course focuses on understanding inequalities, mixed numbers and improper fractions, positive and negative integers, the distributive property and like terms, and linear equations. Additionally, it provides students with problem-solving strategies and critical thinking skills to provide a strong foundation for growth and success in mathematics.  
+General Mathematics is intended to review and reinforce students‚Äô numeracy skills and understandings of basic mathematical operations: addition, subtraction, multiplication, and division. The course focuses on understanding inequalities, mixed numbers and improper fractions, positive and negative integers, the distributive property and like terms, and linear equations. Additionally, it provides students with problem-solving strategies and critical thinking skills to provide a strong foundation for growth and success in mathematics.  
  
 INTEGRATED MATH I 
 Prerequisite: Completion of Math 3 or General Mathematics, grade of C or better at the end of the school year 
@@ -637,7 +624,7 @@ Prerequisite: Completion of AP Calculus AB, grade of B or better both semesters
 10 Credits | Grades 11-12 
 H.S. | C.S.U. (c) | U.C. (c)  | *Weighted Course 
  
-AP Calculus BC is a continuation from AP Calculus AB. It includes all topics covered in AP Calculus AB, as well as convergence tests for series, Taylor and Maclaurin series, the use of parametric equations, polar functions, including arc length in polar coordinates, calculating curve length in parametric and function equations, L°ØHopital°Øs rule, integration by parts, improper integrals, Euler°Øs method, differential equations for logistic growth, and using partial fractions to integrate rational functions. 
+AP Calculus BC is a continuation from AP Calculus AB. It includes all topics covered in AP Calculus AB, as well as convergence tests for series, Taylor and Maclaurin series, the use of parametric equations, polar functions, including arc length in polar coordinates, calculating curve length in parametric and function equations, L‚ÄôHopital‚Äôs rule, integration by parts, improper integrals, Euler‚Äôs method, differential equations for logistic growth, and using partial fractions to integrate rational functions. 
  
 STATISTICS, ADVANCED PLACEMENT 
 Prerequisite: Completion of Integrated III or higher with a grade of B or better or Integrated III Enhanced with a grade of C or better at the end of the school year 
@@ -688,14 +675,14 @@ MIDDLE SCHOOL SCIENCE ACADEMY 7/8
 Prerequisite: Application and Placement Exam 
 10 Credits | Grades 7-8 
  
-This rigorous science course is designed for middle school students (7-8) interested in participating in OCSA°Øs Division B Science Olympiad team. Course content will move through the Science 7 or 8 (depending on student grade) curriculum at an accelerated pace, giving students the opportunity to delve deeper into science and engineering concepts of their interest and the possibility to build devices and structures in preparation for Science Olympiad events. Participation in this course requires monthly study hours and preparation outside of school hours, in addition to participation in approximately five to seven competitions taking place on Saturdays. This course is designed for the critically thinking and highly motivated student as it requires a willingness to work both independently and collaboratively on a variety of rigorous tasks. Interested students will be admitted to this course based on an application and results from a placement exam covering general science concepts and analysis skills from the middle school Next Generation Science Standards. Admittance into the class does not guarantee participation in Science Olympiad events and competitions. 
+This rigorous science course is designed for middle school students (7-8) interested in participating in OCSA‚Äôs Division B Science Olympiad team. Course content will move through the Science 7 or 8 (depending on student grade) curriculum at an accelerated pace, giving students the opportunity to delve deeper into science and engineering concepts of their interest and the possibility to build devices and structures in preparation for Science Olympiad events. Participation in this course requires monthly study hours and preparation outside of school hours, in addition to participation in approximately five to seven competitions taking place on Saturdays. This course is designed for the critically thinking and highly motivated student as it requires a willingness to work both independently and collaboratively on a variety of rigorous tasks. Interested students will be admitted to this course based on an application and results from a placement exam covering general science concepts and analysis skills from the middle school Next Generation Science Standards. Admittance into the class does not guarantee participation in Science Olympiad events and competitions. 
  
 Science 
  
 BIOLOGY OF THE LIVING EARTH 
 Prerequisite: None.10 Credits | Grades 9-12 
 H.S. | C.S.U. (d) | U.C. (d). 
-The Biology of the Living Earth course, based on the Next Generation Science Standards, will explore biological concepts through a phenomenon-based approach. This course will explore the relationships between the living and nonliving components of Earth°Øs systems through the following topics: Matter and Energy in Organisms and Ecosystems, Interdependent Relationships in Ecosystems, Structure and Function, Inheritance and Variation of Traits, Natural Selection and Evolution, and Ecosystem Stability and the Response to Climate Change. Students will apply their knowledge of Disciplinary Core Ideas to various real-world phenomena. By using Science and Engineering Practices, Crosscutting Concepts, and Disciplinary Core Ideas, students will demonstrate their understanding by formulating questions, using evidence to evaluate claims, and developing models to explain phenomena through hands-on activities and labs. 
+The Biology of the Living Earth course, based on the Next Generation Science Standards, will explore biological concepts through a phenomenon-based approach. This course will explore the relationships between the living and nonliving components of Earth‚Äôs systems through the following topics: Matter and Energy in Organisms and Ecosystems, Interdependent Relationships in Ecosystems, Structure and Function, Inheritance and Variation of Traits, Natural Selection and Evolution, and Ecosystem Stability and the Response to Climate Change. Students will apply their knowledge of Disciplinary Core Ideas to various real-world phenomena. By using Science and Engineering Practices, Crosscutting Concepts, and Disciplinary Core Ideas, students will demonstrate their understanding by formulating questions, using evidence to evaluate claims, and developing models to explain phenomena through hands-on activities and labs. 
  
 BIOLOGY, ADVANCED PLACEMENT 
 Prerequisite: Completion of Biology of the Living Earth and Chemistry or Physics, Grade of B or better both semesters; if Honors Chemistry, grade of C or better both semesters 
@@ -818,7 +805,7 @@ Prerequisite: Completion of French II, grade of C or better at the end of the sc
 10 Credits | Grades 9-12 
 H.S. | C.S.U. (e) | U.C. (e) 
  
-This course is designed to further expand the development of proficiency in the four skills emphasized in French II: listening, speaking, reading and writing. The instructional approach is literacy-based and incorporates reading and discussion to support student language acquisition. French III is taught almost entirely in French and students are expected to use only French to communicate in all class activities. The class°Øs cultural focus continues to address the Francophone world through various media. Knowledge of grammatical structures and vocabulary will be reviewed and expanded to allow students to communicate in spontaneous and authentic situations. 
+This course is designed to further expand the development of proficiency in the four skills emphasized in French II: listening, speaking, reading and writing. The instructional approach is literacy-based and incorporates reading and discussion to support student language acquisition. French III is taught almost entirely in French and students are expected to use only French to communicate in all class activities. The class‚Äôs cultural focus continues to address the Francophone world through various media. Knowledge of grammatical structures and vocabulary will be reviewed and expanded to allow students to communicate in spontaneous and authentic situations. 
 World Language 
  
 FRENCH III HONORS 
@@ -833,17 +820,17 @@ Prerequisite: Completion of French III, grade of C or better at the end of the s
 10 Credits | Grades 10-12 
 H.S. | C.S.U. (e) | U.C. (e) 
  
-This course is designed to further expand the development of proficiency in the four skills emphasized in French III: listening, speaking, reading, and writing. The approach is literacy-based and incorporates reading and discussion to support student language acquisition. French IV is taught entirely in French and students are required to use French to communicate in all class activities. The class°Øs cultural focus (explored through film, literature, and other media) addresses the French-speaking world. Knowledge of grammatical structures and vocabulary will be reviewed, refined and expanded upon to allow the student to communicate in spontaneous and authentic situations. 
+This course is designed to further expand the development of proficiency in the four skills emphasized in French III: listening, speaking, reading, and writing. The approach is literacy-based and incorporates reading and discussion to support student language acquisition. French IV is taught entirely in French and students are required to use French to communicate in all class activities. The class‚Äôs cultural focus (explored through film, literature, and other media) addresses the French-speaking world. Knowledge of grammatical structures and vocabulary will be reviewed, refined and expanded upon to allow the student to communicate in spontaneous and authentic situations. 
  
 FRENCH LANGUAGE AND CULTURE, ADVANCED PLACEMENT 
 Prerequisite: Completion of French IV, grade of A or French IIIH, grade of B both semesters 
 10 Credits | Grades 11-12 
 H.S. | C.S.U. (e) | U.C. (e) | *Weighted Course 
  
-AP French is a rigorous and enriching course that will help students to be fully prepared for the AP French exam. Students enrolled in the class should be able to communicate at the intermediate to pre-advanced level according to the ACTFL (American Council on the Teaching of Foreign Languages) Performance Guidelines for K-12 learners. The course will provide opportunities to help strengthen and develop students°Ø listening, reading, writing, and speaking skills in each of the three modes of communication, namely interpersonal, interpretive and presentational, as defined in the Standards for Foreign Language Learning in the 21st Century. In this course students will compare their own culture to that of the Francophone world.  Ultimately, the main objective is for students to acquire language at the advanced level so that they may spontaneously communicate both verbally and in writing in French while discussing current events, literature, history, film, and daily life. 
+AP French is a rigorous and enriching course that will help students to be fully prepared for the AP French exam. Students enrolled in the class should be able to communicate at the intermediate to pre-advanced level according to the ACTFL (American Council on the Teaching of Foreign Languages) Performance Guidelines for K-12 learners. The course will provide opportunities to help strengthen and develop students‚Äô listening, reading, writing, and speaking skills in each of the three modes of communication, namely interpersonal, interpretive and presentational, as defined in the Standards for Foreign Language Learning in the 21st Century. In this course students will compare their own culture to that of the Francophone world.  Ultimately, the main objective is for students to acquire language at the advanced level so that they may spontaneously communicate both verbally and in writing in French while discussing current events, literature, history, film, and daily life. 
 World Language 
  
-AP French is conducted almost exclusively in French. The class provides students with diverse learning experiences equivalent to a third year, college-level French course. Instructional materials are chosen, created by and intended for native French speakers. Students are expected to extract meaning, analyze, synthesize, and react to various authentic materials such as audio and video recordings (podcasts, interviews, TV news), literary texts (poems, novels, excerpts, plays, children°Øs books), and non-literary texts (newspaper and magazine articles, advertisements). 
+AP French is conducted almost exclusively in French. The class provides students with diverse learning experiences equivalent to a third year, college-level French course. Instructional materials are chosen, created by and intended for native French speakers. Students are expected to extract meaning, analyze, synthesize, and react to various authentic materials such as audio and video recordings (podcasts, interviews, TV news), literary texts (poems, novels, excerpts, plays, children‚Äôs books), and non-literary texts (newspaper and magazine articles, advertisements). 
  
 MANDARIN I 
 Prerequisite: None 
@@ -868,24 +855,24 @@ Prerequisite: Completion of Mandarin II, grade of C or better at the end of the 
 10 Credits | Grades 9-12 
 H.S. | C.S.U. (e) | U.C. (e)  
  
-This course is designed to further expand the development of proficiency in the four skills emphasized in Mandarin II: listening, speaking, reading and writing. The instructional approach is literacy-based and incorporates reading and discussion to support student language acquisition. Mandarin III is taught almost entirely in Mandarin and students are expected to use only the target language to communicate in all class activities. The class°Øs cultural focus continues to address the Chinese-speaking world through various media. Knowledge of grammatical structures and vocabulary will be reviewed and expanded to allow students to communicate in spontaneous and authentic situations. They will also be able to read at least 250 Chinese characters (Traditional or Simplified) and write 50% of the characters using proper stroke order in sentences or paragraphs. 
+This course is designed to further expand the development of proficiency in the four skills emphasized in Mandarin II: listening, speaking, reading and writing. The instructional approach is literacy-based and incorporates reading and discussion to support student language acquisition. Mandarin III is taught almost entirely in Mandarin and students are expected to use only the target language to communicate in all class activities. The class‚Äôs cultural focus continues to address the Chinese-speaking world through various media. Knowledge of grammatical structures and vocabulary will be reviewed and expanded to allow students to communicate in spontaneous and authentic situations. They will also be able to read at least 250 Chinese characters (Traditional or Simplified) and write 50% of the characters using proper stroke order in sentences or paragraphs. 
  
 MANDARIN IV 
 Prerequisite: Completion of Mandarin III, grade of C or better at the end of the school year. 
 10 Credits | Grades 10-12 
 H.S. | C.S.U. (e) | U.C. (e) 
  
-This is a rigorous course designed to further expand the development of proficiency in the four skills emphasized in Mandarin III: listening, speaking, reading, and writing. The approach is literacy-based and incorporates reading and discussion to support student language acquisition. Mandarin IV is taught entirely in Mandarin Chinese, and students are required to use the target language to communicate in all class activities. The class°Øs cultural focus was explored through film, literature, and other media. Knowledge of grammatical structures and vocabulary will be reviewed, refined, and expanded upon to allow the student to communicate spontaneously and authentically. 
+This is a rigorous course designed to further expand the development of proficiency in the four skills emphasized in Mandarin III: listening, speaking, reading, and writing. The approach is literacy-based and incorporates reading and discussion to support student language acquisition. Mandarin IV is taught entirely in Mandarin Chinese, and students are required to use the target language to communicate in all class activities. The class‚Äôs cultural focus was explored through film, literature, and other media. Knowledge of grammatical structures and vocabulary will be reviewed, refined, and expanded upon to allow the student to communicate spontaneously and authentically. 
  
 MANDARIN IV HONORS 
 Prerequisite: Completion of Mandarin III or Mandarin for Mandarin Speakers, grade of A both semesters  
 10 Credits | Grades 10-12 
 H.S. | C.S.U. (e) | U.C. (e) | *Weighted Course  
  
-Mandarin IV Honors is a weighted class designed for students who choose to study Mandarin with the objective of taking the Advanced Placement Exam the following year or at the end of their high school studies. Mandarin IV Honors is a challenging course and moves at an accelerated pace. The course is taught entirely in Mandarin, and students are expected to use the target language to communicate in all class activities. This is a literature-based, grammar-heavy course that utilizes various reading strategies to support language acquisition and develop students°Ø independent language learning. While the class focus is on increasing grammatical accuracy in writing and speaking, its overall design is to further develop proficiency in the four focus skills of listening, speaking, reading, and writing. Knowledge of grammatical structures and vocabulary will be reviewed, refined, and expanded upon to allow the student to communicate spontaneously  
+Mandarin IV Honors is a weighted class designed for students who choose to study Mandarin with the objective of taking the Advanced Placement Exam the following year or at the end of their high school studies. Mandarin IV Honors is a challenging course and moves at an accelerated pace. The course is taught entirely in Mandarin, and students are expected to use the target language to communicate in all class activities. This is a literature-based, grammar-heavy course that utilizes various reading strategies to support language acquisition and develop students‚Äô independent language learning. While the class focus is on increasing grammatical accuracy in writing and speaking, its overall design is to further develop proficiency in the four focus skills of listening, speaking, reading, and writing. Knowledge of grammatical structures and vocabulary will be reviewed, refined, and expanded upon to allow the student to communicate spontaneously  
 World Language 
  
-and authentically. The class°Øs cultural focus (explored through film, literature, and other media) highlights cultures in the Chinese-speaking world. 
+and authentically. The class‚Äôs cultural focus (explored through film, literature, and other media) highlights cultures in the Chinese-speaking world. 
  
 MANDARIN FOR MANDARIN SPEAKERS.Prerequisite: Students must comprehend Mandarin spoken by native speakers and have a high degree of spoken fluency. .10 Credits | Grades 8-12 
 H.S. | C.S.U. (e) | U.C. (e) 
@@ -904,7 +891,7 @@ Prerequisite: Completion of Mandarin IVH, grade of A both semesters
 10 Credits | Grades 11-12 
 H.S. | C.S.U. (e) | U.C. (e) | *Weighted Course 
  
-AP Chinese is a rigorous, college-level course that prepares students for the AP Chinese Language and Culture Exam. Students who enroll in AP Chinese Language should already have a strong command of Chinese grammar and vocabulary and have competence in listening, reading, speaking, and writing (American Council on the Teaching of Foreign Languages Guidelines used). Course content reflects the intellectual interests shared by the students and teacher (arts, current events, literature, science and technology, history, etc.), but is driven by the standards and expectations of the College Board. Materials include audio and video recordings, fiction and non-fiction literary works, and paper and electronic texts. The course includes extensive training in organizing and writing presentational and interpersonal compositions and similar oral presentations. Students will take preparatory exams to evaluate the individual°Øs performance, both in understanding written and spoken language and responding in correct and idiomatic Chinese.  
+AP Chinese is a rigorous, college-level course that prepares students for the AP Chinese Language and Culture Exam. Students who enroll in AP Chinese Language should already have a strong command of Chinese grammar and vocabulary and have competence in listening, reading, speaking, and writing (American Council on the Teaching of Foreign Languages Guidelines used). Course content reflects the intellectual interests shared by the students and teacher (arts, current events, literature, science and technology, history, etc.), but is driven by the standards and expectations of the College Board. Materials include audio and video recordings, fiction and non-fiction literary works, and paper and electronic texts. The course includes extensive training in organizing and writing presentational and interpersonal compositions and similar oral presentations. Students will take preparatory exams to evaluate the individual‚Äôs performance, both in understanding written and spoken language and responding in correct and idiomatic Chinese.  
  
 World Language 
  
@@ -927,7 +914,7 @@ Prerequisite: Completion of Spanish II, grade of C or better at the end of the s
 10 Credits | Grades 9-12 
 H.S. | C.S.U. (e) | U.C. (e) 
  
-This course is designed to further expand the development of proficiency in the four skills emphasized in Spanish II:  listening, speaking, reading and writing. The instructional approach is literacy-based and incorporates reading and discussion to support student language acquisition. Spanish III is taught almost entirely in Spanish and students are expected to use Spanish to communicate in class activities. The class°Øs cultural focus continues to address the Spanish speaking world through various media. Knowledge of grammatical structures and vocabulary will be reviewed and expanded to allow students to communicate in spontaneous and authentic situations. 
+This course is designed to further expand the development of proficiency in the four skills emphasized in Spanish II:  listening, speaking, reading and writing. The instructional approach is literacy-based and incorporates reading and discussion to support student language acquisition. Spanish III is taught almost entirely in Spanish and students are expected to use Spanish to communicate in class activities. The class‚Äôs cultural focus continues to address the Spanish speaking world through various media. Knowledge of grammatical structures and vocabulary will be reviewed and expanded to allow students to communicate in spontaneous and authentic situations. 
  
 World Language 
  
@@ -936,13 +923,13 @@ Prerequisite: Completion of Spanish III, grade of C or better at the end of the 
 10 Credits | Grades 10-12 
 H.S. | C.S.U. (e) | U.C. (e) 
  
-This is a rigorous course designed to further expand the development of proficiency in the four skills emphasized in Spanish III: listening, speaking, reading, and writing. The approach is literacy-based and incorporates reading and discussion to support student language acquisition. Spanish IV is taught entirely in Spanish and students are required to use the target language to communicate in all class activities. The class°Øs cultural focus (explored through film, literature, and other media) addresses the Spanish-speaking world. Knowledge of grammatical structures and vocabulary will be reviewed, refined and expanded upon to allow the student to communicate in spontaneous and authentic situations. 
+This is a rigorous course designed to further expand the development of proficiency in the four skills emphasized in Spanish III: listening, speaking, reading, and writing. The approach is literacy-based and incorporates reading and discussion to support student language acquisition. Spanish IV is taught entirely in Spanish and students are required to use the target language to communicate in all class activities. The class‚Äôs cultural focus (explored through film, literature, and other media) addresses the Spanish-speaking world. Knowledge of grammatical structures and vocabulary will be reviewed, refined and expanded upon to allow the student to communicate in spontaneous and authentic situations. 
  
 SPANISH IV HONORS 
 Prerequisite: Completion of Spanish III or Spanish for Spanish Speakers B; grade of A both semesters.10 Credits | Grades 10-12 
 H.S. | C.S.U. (e) | U.C. (e) | *Weighted Course 
  
-Spanish IV Honors is a weighted class, designed for students who choose to study Spanish with the objective of taking the Advanced Placement Exam the following year or at the end of their high school studies. Spanish IV Honors is a challenging course and moves at an accelerated pace. While the class focus is on increasing grammatical accuracy in writing and speaking, its overall design is to further develop proficiency in the four focus skills of listening, speaking, reading and writing. This is a literature-based, grammar-heavy course which utilizes various reading strategies to support language acquisition and develop students°Ø independent language learning. Spanish IV Honors is taught entirely in Spanish and students are expected to use the target language to communicate in all class activities. The course uses comprehensible input and direct instruction methods to improve grammatical accuracy and expand students°Ø vocabulary to support increased fluency in the three modes of communication (interpersonal, interpretive and presentational). The class°Øs cultural focus (introduced through film, literature, and other media) highlights various countries and cultures across the Spanish-speaking world.  
+Spanish IV Honors is a weighted class, designed for students who choose to study Spanish with the objective of taking the Advanced Placement Exam the following year or at the end of their high school studies. Spanish IV Honors is a challenging course and moves at an accelerated pace. While the class focus is on increasing grammatical accuracy in writing and speaking, its overall design is to further develop proficiency in the four focus skills of listening, speaking, reading and writing. This is a literature-based, grammar-heavy course which utilizes various reading strategies to support language acquisition and develop students‚Äô independent language learning. Spanish IV Honors is taught entirely in Spanish and students are expected to use the target language to communicate in all class activities. The course uses comprehensible input and direct instruction methods to improve grammatical accuracy and expand students‚Äô vocabulary to support increased fluency in the three modes of communication (interpersonal, interpretive and presentational). The class‚Äôs cultural focus (introduced through film, literature, and other media) highlights various countries and cultures across the Spanish-speaking world.  
  
 SPANISH LANGUAGE AND CULTURE, ADVANCED PLACEMENT  
 Prerequisite: Completion of Spanish IV Honors, grade of A both semesters          ... 
@@ -952,7 +939,7 @@ H.S. | C.S.U. (e) | U.C. (e) | *Weighted Course
 AP Spanish is a rigorous, college-level course designed to prepare students for the AP Spanish Language and Culture Exam. Students who enroll in AP Spanish Language should already have a strong command of Spanish grammar and vocabulary and have competence in listening, reading, speaking and writing (American Council on the Teaching of Foreign Languages Guidelines used). The course content is driven by the standards and expectations of the College Board. Materials include audio and video recordings, fiction and non-fiction literary works, and paper and electronic texts. The course includes extensive training in the  
 World Language 
  
-organization and writing of presentational and interpersonal compositions and similar oral presentations. Students will take preparatory exams to evaluate the individual°Øs performance, both in understanding written and spoken language and in responding in correct, idiomatic Spanish.  
+organization and writing of presentational and interpersonal compositions and similar oral presentations. Students will take preparatory exams to evaluate the individual‚Äôs performance, both in understanding written and spoken language and in responding in correct, idiomatic Spanish.  
  
 SPANISH FOR SPANISH SPEAKERS A.Prerequisite: Students must comprehend Spanish spoken by native speakers and have a high degree of spoken fluency. This is the first course in this sequence..10 Credits | Grades 7-11 
 H.S. | C.S.U. (e) | U.C. (e) 
@@ -1059,11 +1046,11 @@ H.S.
  
 Students taking Culinary II will explore the multi-cultural aspects of food by preparing and sampling foods typical of selected major cuisines. Attention is given to geography, climate, and the history of each culture. Major topics for this advanced course include: 
  
-°‹.Locating the origin of cuisine or origin of influence through flavor profiles 
-°‹.Adjusting recipes to produce a desired amount for either plated or buffet style service 
-°‹.Demonstrating a greater understanding of cooking techniques and why each is better suited to fit a desired result 
-°‹.Preparing individual recipes that replicate the flavor profile of different regions of the world 
-°‹.Understanding how culture and climate can cause cuisine to develop differently in different areas of the world 
+‚â§.Locating the origin of cuisine or origin of influence through flavor profiles 
+‚â§.Adjusting recipes to produce a desired amount for either plated or buffet style service 
+‚â§.Demonstrating a greater understanding of cooking techniques and why each is better suited to fit a desired result 
+‚â§.Preparing individual recipes that replicate the flavor profile of different regions of the world 
+‚â§.Understanding how culture and climate can cause cuisine to develop differently in different areas of the world 
 
  
 DIGITAL PAINTING I 
@@ -1092,7 +1079,7 @@ Prerequisite: None
 10 Credits | Grades 9-12 
 H.S. | C.S.U. (f) | U.C. (f)  
  
-The fashion design lessons at this level are structured to challenge each student°Øs personal creativity. Projects in this course are created to stretch their accrued knowledge deeper into the designing aspect of the craft. This will lead them to class required participation in designing and sewing clothes, costumes and co-ordinate makeup and hair. Costume/fashion design includes board projects, elements of design, terminology and sketching. Students also learn sewing machine mechanics, sewing garments from commercial patterns, creating their own designs and learning hand sewing techniques. This class is recommended for 9th-12th graders looking to create fashion portfolio works, and 12th graders hoping to expand their fashion/historical and sewing knowledge. Class time includes critique, figure drawing, and design project development with sewing and construction.   
+The fashion design lessons at this level are structured to challenge each student‚Äôs personal creativity. Projects in this course are created to stretch their accrued knowledge deeper into the designing aspect of the craft. This will lead them to class required participation in designing and sewing clothes, costumes and co-ordinate makeup and hair. Costume/fashion design includes board projects, elements of design, terminology and sketching. Students also learn sewing machine mechanics, sewing garments from commercial patterns, creating their own designs and learning hand sewing techniques. This class is recommended for 9th-12th graders looking to create fashion portfolio works, and 12th graders hoping to expand their fashion/historical and sewing knowledge. Class time includes critique, figure drawing, and design project development with sewing and construction.   
  
 FASHION AND COSTUME DESIGN II 
 Prerequisite: Completion of Fashion and Costume Design I or equivalent skill set 
@@ -1103,16 +1090,16 @@ H.S. | C.S.U. (f)* | U.C. (f)*.
 This class will include more advanced sewing techniques such as learning to stitch and thread the industrial sewing machines and sergers, working with materials such as buckram and hat wire, foam sculpting and working with EVA foam. Students will also learn to use different types of curves and L shaped rulers for pattern drafting and how to decorate fabrics using the kick press or beading needles.  For corset making, students will learn how to apply and stitch in boning, grommets, and trim.    
  
 Projects include: 
-°‹.Pattern Drafting 
+‚â§.Pattern Drafting 
 
 Electives 
  
-°‹.Draping 
-°‹.Corset making 
-°‹.Character Heads 
-°‹.Beading 
-°‹.Millinery 
-°‹.Surface Decorations 
+‚â§.Draping 
+‚â§.Corset making 
+‚â§.Character Heads 
+‚â§.Beading 
+‚â§.Millinery 
+‚â§.Surface Decorations 
 
  
 GRAPHIC DESIGN 
@@ -1136,10 +1123,10 @@ Prerequisites: Teacher recommendations, application, and interview process; exem
 10 Credits | Grades 10-12 
 H.S. 
  
-Leadership is a year-long class designed to be reflective of OCSA°Øs student body while providing students with the opportunity to learn and apply leadership skills. Academically, students will engage in master planning, practice decision-making techniques, engage in problem solving processes, assess the needs and wants of large groups, and develop leadership skills such as communication, time management, and project planning through a series of leadership development sessions, readings, and guest speakers. Students will  
+Leadership is a year-long class designed to be reflective of OCSA‚Äôs student body while providing students with the opportunity to learn and apply leadership skills. Academically, students will engage in master planning, practice decision-making techniques, engage in problem solving processes, assess the needs and wants of large groups, and develop leadership skills such as communication, time management, and project planning through a series of leadership development sessions, readings, and guest speakers. Students will  
 Electives 
  
-also plan, implement, and sustain the school°Øs activities program as well as have the opportunity to implement a variety of community service programs. Students will be required to maintain an exemplary behavior record throughout the school year to remain in class. 
+also plan, implement, and sustain the school‚Äôs activities program as well as have the opportunity to implement a variety of community service programs. Students will be required to maintain an exemplary behavior record throughout the school year to remain in class. 
  
 *Students are required to complete a leadership application and an interview in the spring preceding enrollment.  Not all students are accepted into the Leadership class. 
  
@@ -1150,14 +1137,14 @@ H.S. | C.S.U. (f) | U.C. (f) | *Weighted Course.........(One $5 staff paper note
  
 The AP Music Theory course covers the following topics: 
  
-°‹.Aural recognition of tonal melodies, harmonies, scales, and intervals 
-°‹.Sight-reading: vocal training & sight-singing  
-°‹.Rudiments and terminology of music i.e. chords, metric organization, and rhythmic patterns 
-°‹.Composition of a bass line for a given melody, implying appropriate harmony 
-°‹.Realization of a figured bass and Roman numeral progression 
-°‹.Analysis of repertoire from the Common Practice Period (1600-1910), including study of motivic treatment, examination of rhythmic, melodic, and harmonic features, analysis of functional harmony 
-°‹.A brief introduction to twentieth-century scales, chordal structures, and compositional procedures, either through analysis or original composition 
-°‹.Advanced musical vocabulary from the common practice period 
+‚â§.Aural recognition of tonal melodies, harmonies, scales, and intervals 
+‚â§.Sight-reading: vocal training & sight-singing  
+‚â§.Rudiments and terminology of music i.e. chords, metric organization, and rhythmic patterns 
+‚â§.Composition of a bass line for a given melody, implying appropriate harmony 
+‚â§.Realization of a figured bass and Roman numeral progression 
+‚â§.Analysis of repertoire from the Common Practice Period (1600-1910), including study of motivic treatment, examination of rhythmic, melodic, and harmonic features, analysis of functional harmony 
+‚â§.A brief introduction to twentieth-century scales, chordal structures, and compositional procedures, either through analysis or original composition 
+‚â§.Advanced musical vocabulary from the common practice period 
 
  
 PHOTOGRAPHY I (DIGITAL) 
@@ -1322,14 +1309,14 @@ Prerequisite: None
 10 Credits | Grades 7-12 
 H.S. 
  
-This course is designed to introduce students to a variety of sports and athletics and includes a foundation of exercises and training that aids in strengthening the student°Øs physical condition. The course will explore the areas of flexibility, strength building, healthy lifestyle choices, teamwork and coordination. This will be accomplished by targeted warm-ups, specified strength training, aerobic activities, and taking a fun approach to gaining an overall understanding of a variety of sports and athletics. The central goal is to propel the student on a path towards °Ælifelong learning°Ø in regard to conditioning the mind and body.  
+This course is designed to introduce students to a variety of sports and athletics and includes a foundation of exercises and training that aids in strengthening the student‚Äôs physical condition. The course will explore the areas of flexibility, strength building, healthy lifestyle choices, teamwork and coordination. This will be accomplished by targeted warm-ups, specified strength training, aerobic activities, and taking a fun approach to gaining an overall understanding of a variety of sports and athletics. The central goal is to propel the student on a path towards ‚Äòlifelong learning‚Äô in regard to conditioning the mind and body.  
  
 DANCE FITNESS 
 Prerequisite: None 
 10 Credits | Grades 7-12 
 H.S. 
  
-Dance Fitness is, as the name suggests, a dance-based fitness class that incorporates many genres of dance into fun, easy-to-follow routines and also provides a much-needed stress release throughout the week. No prior dance experience is required; think of the game °∞Just Dance°± as an elective class! Unlike technique-focused dance electives, Dance Fitness focuses on the fitness aspects of dance (mobility, strength, stamina, etc.) and is a non-performing dance class. Dance Fitness not only uses familiar music and dance moves, but introduces students to a variety of music genres and dance styles from around the world while also allowing students the freedom to interpret the routines in their own way. Students are challenged to create their own dance fitness routines and will learn to lead a group fitness class. In addition, students will produce music videos using choreography from class.  
+Dance Fitness is, as the name suggests, a dance-based fitness class that incorporates many genres of dance into fun, easy-to-follow routines and also provides a much-needed stress release throughout the week. No prior dance experience is required; think of the game ‚ÄúJust Dance‚Äù as an elective class! Unlike technique-focused dance electives, Dance Fitness focuses on the fitness aspects of dance (mobility, strength, stamina, etc.) and is a non-performing dance class. Dance Fitness not only uses familiar music and dance moves, but introduces students to a variety of music genres and dance styles from around the world while also allowing students the freedom to interpret the routines in their own way. Students are challenged to create their own dance fitness routines and will learn to lead a group fitness class. In addition, students will produce music videos using choreography from class.  
  
 HIP HOP DANCE I 
 Prerequisite: None 
@@ -1392,7 +1379,7 @@ Prerequisite: None
 10 Credits | Grades 7-12 
 H.S. | C.S.U. (f) | U.C. (f)  
  
-Musical Theatre Dance I gives students the opportunity to advance their body awareness in alignment, technical dance skills, performance readiness and acting.  This course embraces all of the elements needed for a musical theatre performer. This course will examine the body's muscular structure, how muscles work to create movement, as well as injury prevention. Students will participate in a jazz warm up, ballet barre, strength work and choreography. In the spring, all students perform a musical theatre production piece in the OCSA°Øs Spring Showcase. 
+Musical Theatre Dance I gives students the opportunity to advance their body awareness in alignment, technical dance skills, performance readiness and acting.  This course embraces all of the elements needed for a musical theatre performer. This course will examine the body's muscular structure, how muscles work to create movement, as well as injury prevention. Students will participate in a jazz warm up, ballet barre, strength work and choreography. In the spring, all students perform a musical theatre production piece in the OCSA‚Äôs Spring Showcase. 
  
 MUSICAL THEATRE DANCE II 
 Prerequisite: Completion of Jazz I, MT Dance I, or Ballet I  
@@ -1415,7 +1402,7 @@ Prerequisite: None
 10 Credits | Grades 9-12 
 H.S. 
  
-Pilates is a popular exercise system that is created for all ranges of ability, athleticism, and even those with physical limitations. It is performed in a series of moves that strengthen the core and improve posture. This course will focus on exercises from the classical mat repertoire, executed while lying on a yoga mat. As it is commonly utilized for rehabilitation and injury prevention, Pilates is unique in providing the ability to build muscle strength while simultaneously increasing flexibility/range of motion. The curriculum will incorporate fundamental studies of anatomy and kinesiology. An additional focus will be teaching students how to regulate their body°Øs stress response, and each block will conclude with simple meditation practices to supplement the physical health benefits of exercise. While Pilates is very popular with dancers due to its cross-training benefits, this class is open to all high school students at OCSA. 
+Pilates is a popular exercise system that is created for all ranges of ability, athleticism, and even those with physical limitations. It is performed in a series of moves that strengthen the core and improve posture. This course will focus on exercises from the classical mat repertoire, executed while lying on a yoga mat. As it is commonly utilized for rehabilitation and injury prevention, Pilates is unique in providing the ability to build muscle strength while simultaneously increasing flexibility/range of motion. The curriculum will incorporate fundamental studies of anatomy and kinesiology. An additional focus will be teaching students how to regulate their body‚Äôs stress response, and each block will conclude with simple meditation practices to supplement the physical health benefits of exercise. While Pilates is very popular with dancers due to its cross-training benefits, this class is open to all high school students at OCSA. 
  
 TAP DANCE I 
 Prerequisite: None 
@@ -1478,7 +1465,7 @@ Prerequisite: None
 10 Credits | Grades 11-12 
 H.S. 
  
-Yoga is an ancient discipline known for its health and relaxation benefits. It includes breath control, meditation, and the physical practice of specific body postures known as asanas. Yoga can also increase strength and flexibility, while improving posture and balance. This vinyasa style class will feature a steady flow of movement and focus on traditional form and proper alignment to reach the full potential of each pose. The curriculum will include fundamental studies of anatomy and kinesiology. An additional focus will be teaching students how to regulate their body°Øs stress response, and each block will conclude with simple meditation practices to supplement the physical health benefits of exercise. Yoga is suitable for any level of student, open to all ranges of ability, athleticism, and even those with physical limitations. 
+Yoga is an ancient discipline known for its health and relaxation benefits. It includes breath control, meditation, and the physical practice of specific body postures known as asanas. Yoga can also increase strength and flexibility, while improving posture and balance. This vinyasa style class will feature a steady flow of movement and focus on traditional form and proper alignment to reach the full potential of each pose. The curriculum will include fundamental studies of anatomy and kinesiology. An additional focus will be teaching students how to regulate their body‚Äôs stress response, and each block will conclude with simple meditation practices to supplement the physical health benefits of exercise. Yoga is suitable for any level of student, open to all ranges of ability, athleticism, and even those with physical limitations. 
  
 
  
@@ -1508,4 +1495,5 @@ This course is designed to support students enrolled in core academic classes. T
 
  
  
+
 
