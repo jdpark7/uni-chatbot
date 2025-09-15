@@ -6,15 +6,15 @@ mkdir uni-chatbot && cd uni-chatbot
 
 ### Create the folder/file structure exactly as below:
 
-uni-chatbot/
-├─ .env              # Environment variables (e.g., model name)
-├─ ingest.mjs        # Script: documents → embeddings → vector DB index
-├─ server.mjs        # Express API server + RAG pipeline
-├─ vectorstore/      # LanceDB vector table data
-├─ university-data/  # ★ University-related documents (source data)
-└─ public/
-   ├─ index.html     # Mini web UI for testing
-   └─ app.js         # Frontend logic
+uni-chatbot/  
+├─ .env              # Environment variables (e.g., model name)  
+├─ ingest.mjs        # Script: documents → embeddings → vector DB index  
+├─ server.mjs        # Express API server + RAG pipeline  
+├─ vectorstore/      # LanceDB vector table data  
+├─ university-data/  # ★ University-related documents (source data)  
+└─ public/  
+   ├─ index.html     # Mini web UI for testing  
+   └─ app.js         # Frontend logic  
 
 ### 3)Install dependencies
 npm i express cors dotenv body-parser glob lancedb langchain @langchain/community ollama
